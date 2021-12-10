@@ -3,9 +3,15 @@ print("Hello :) welcome to the automatic report generator")
 
 '''name'''
 name1 = input("What was the name of your student? (Name): ")
-input("The name of your student was", name1, "Is that correct? (Yes/No)")
+print("The name of your student was", name1, "-")
+input("Is that correct? (Yes/No)")
+
+
+
 
 '''meeting/learning'''
+
+
 input("Was it your first time teaching them? (yes/no): ")
 
 
