@@ -1,22 +1,24 @@
 
-print("Hello, welcome to the automatic report generator")
+print("Hello :) welcome to the automatic report generator")
 
-name
-input("What was the name of your student? (Name): ")
+'''name'''
+name1 = input("What was the name of your student? (Name): ")
+input("The name of your student was", name1, "Is that correct? (Yes/No)")
 
-meeting/learning
+'''meeting/learning'''
 input("Was it your first time teaching them? (yes/no): ")
 
-ability
+
+'''ability'''
 input("What is the level of their ability (1(novice) - 5(fluent): ") 
 
-effort level
+'''effort level'''
 input("What was their level of effort (1(asleep) - 3(very engaged): ")
 
 
 
 
-subject of class
+'''subject of class'''
 input("What is one thing you discussed in class? (1): ")
 input("comment on topic/student interaction with topic/examples of topic (1): ")
 input("What is another thing you discussed in class? (2): ")
@@ -28,21 +30,21 @@ input ("One thing the student did really well with: ")
 print("Brilliant job (name)!")
 
 
-improvements to be made 
-input("Where can the student improve"?)
+'''improvements to be made '''
+input("The student can improve by :")
 
 input("Any additional comments?")
 
 
-print(Have an excellent day :))
+print("Have an excellent day :)")
 
-print(final_report) in html 
+print("final_report")
 
 
 
 '''template'''
 
-Hi (name). 
+'''Hi (name). 
 
 meet: It was nice to meet you.
 notmeet: It was great to learn with you today .
@@ -55,4 +57,4 @@ Brilliant (name)! Your English speaking is excellent. Think of how you can impro
 (additional comments)
 Have an excellent day :)
 
-print final report 
+print final report '''
