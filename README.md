@@ -2,7 +2,7 @@ An automated lesson report generator project.
 
 Made using python with features such as if/else loop, branches and nesting.
 
-Purpose is to help teachers save time writing up reports after lessons while still being able to give useful lesson recap info and areas to improve upon
+Purpose is to help teachers save time writing up reports after lessons while still being able to give useful lesson recap info and areas to improve upon.
 
 
 CURRENT VERSION:
